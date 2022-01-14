@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henriquedalga
-- 👀 I’m interested in c, Java, python, javascript e xadrez
+- 👀 I’m interested in c, Java, python, javascript and chess
 - 🌱Atualmente estou estudando na UFSJ
 - 💞️ 
 - 📫
