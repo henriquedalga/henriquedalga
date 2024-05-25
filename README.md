@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">A Computer Science student from Brazil</h3>
 
-- 🌱 I’m currently learning **data science an software enginering**
+- 🌱 I’m currently learning **data science, software enginering and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
