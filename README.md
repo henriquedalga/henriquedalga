@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">A Computer Science student from Brazil</h3>
 
-- 🌱 I’m currently learning **data science, software enginering and AI**
+- 🌱 I’m currently learning **data science, software enginering and AI (NPL, LLms, neural network and basic Mls)**
+- I have interest in Computer Social Science (CSS) and Computer in Psychology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
